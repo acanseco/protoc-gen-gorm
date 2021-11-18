@@ -46,13 +46,13 @@ dep ensure
 - 方式一
 
 ```go
-go get github.com/infobloxopen/protoc-gen-gorm
+go get github.com/acanseco/protoc-gen-gorm
 ```
 
 - 方式二
 
 ```go
-git clone https://github.com/infobloxopen/protoc-gen-gorm.git
+git clone https://github.com/acanseco/protoc-gen-gorm.git
 make install || go install
 ```
 

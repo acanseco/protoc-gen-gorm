@@ -7,7 +7,7 @@ import (
 	gateway "github.com/infobloxopen/atlas-app-toolkit/gateway"
 	gorm1 "github.com/infobloxopen/atlas-app-toolkit/gorm"
 	query "github.com/infobloxopen/atlas-app-toolkit/query"
-	errors "github.com/infobloxopen/protoc-gen-gorm/errors"
+	errors "github.com/acanseco/protoc-gen-gorm/errors"
 	gorm "github.com/jinzhu/gorm"
 	trace "go.opencensus.io/trace"
 	field_mask "google.golang.org/genproto/protobuf/field_mask"
